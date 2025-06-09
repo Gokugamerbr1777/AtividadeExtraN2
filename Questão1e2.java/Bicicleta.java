@@ -23,8 +23,7 @@ public class Bicicleta {
 
     // Método imprimirEstados modificado para mostrar velocidade máxima
     public void imprimirEstados() {
-        System.out.println("Velocidade: " + velocidade + " km/h, Marcha: " + marcha + 
-                         ", Velocidade Máxima: " + velocidadeMaxima + " km/h");
+        System.out.println("Velocidade: " + velocidade + " km/h, Marcha: " + marcha + ", Velocidade Máxima: " + velocidadeMaxima + " km/h");
     }
 
     // Getters e Setters (marcha permanece o mesmo)
